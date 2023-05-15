@@ -1,0 +1,11 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    font-size: larger;
+}
+
+body.dark-theme{
+  background-color: #1d1d1d;
+  color: #e2e2e2;
+}
